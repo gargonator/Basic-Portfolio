@@ -126,6 +126,66 @@ textarea {
 	margin: 30px;
 }
 
+.pf-left,.pf-right {
+	margin:20px 0px 20px 0px;
+}
+
+.pf-left {
+	float:left;
+}
+
+.pf-right {
+	float:right;
+}
+
+.pf-bottom {
+	margin-bottom:40px;
+}
+
+.pf-image {
+	position:relative;
+	width:270px;
+	height:200px;
+}
+
+
+.label {
+	width:270px;
+	height:50px;
+	background-color:#4aaaa5;
+	color:#ffffff;
+	text-align:center;
+	vertical-align:middle;
+	line-height:50px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.pf-1 {
+	position:absolute;
+	bottom:10px;
+}
+
+.pf-2 {
+	position:absolute;
+	bottom:10px;
+}
+
+.pf-3 {
+	position:absolute;
+	bottom:10px;
+}
+
+.pf-4 {
+	position:absolute;
+	bottom:10px;
+}
+
+.pf-5 {
+	position:absolute;
+	bottom:10px;
+}
+
+
 .main-page {
 	background-color: #eeeeee;
 	border-top: 2px solid rgb(150,150,150);
